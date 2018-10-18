@@ -7,4 +7,10 @@ Git has a mutable index called stage.
 go go go
 Cit has a mutable index called stage.
 Git tracks changes.
+git add file
+git commit -m ""
+git init
+git status
+vi file
+cat file
 
