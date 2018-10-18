@@ -13,4 +13,4 @@ git init
 git status
 vi file
 cat file
-
+My stupid boss still prefers SVN
